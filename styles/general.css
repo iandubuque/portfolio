@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+}
+
+.headerline {
+    width: 50%;
+
+}
+
+.me {
+    height: 300px;
+    width: 300px;
+}
